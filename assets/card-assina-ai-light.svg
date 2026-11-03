@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220" role="img" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="440" height="220" fill="#F3F2EE"/>
+<rect x="0.5" y="0.5" width="439" height="219" rx="3" fill="#F3F2EE" stroke="#1A1A19" stroke-width="1"/>
+<text x="24" y="36" font-size="10" font-weight="600" fill="#64655D" letter-spacing="2" text-anchor="start">PROJECT</text>
+<text x="416" y="36" font-size="10" font-weight="600" fill="#3F6934" letter-spacing="1.2" text-anchor="end">SANITIZED COPY  /  SYNTHETIC DATA</text>
+<line x1="24" y1="50" x2="416" y2="50" stroke="#D8D8D0" stroke-width="1"/>
+<text x="24" y="88" font-size="22" font-weight="600" fill="#1A1A19" letter-spacing="-0.3" text-anchor="start">assina-ai</text>
+<text x="24" y="118" font-size="13" font-weight="400" fill="#64655D" text-anchor="start">Dashboard that follows loan proposals through signature</text>
+<text x="24" y="139" font-size="13" font-weight="400" fill="#64655D" text-anchor="start">and payment and flags the ones that stall.</text>
+<line x1="24" y1="168" x2="416" y2="168" stroke="#D8D8D0" stroke-width="1"/>
+<text x="24" y="192" font-size="10" font-weight="600" fill="#64655D" letter-spacing="2" text-anchor="start">STACK</text>
+<text x="80" y="192" font-size="12" font-weight="500" fill="#1A1A19" text-anchor="start">Apps Script  /  JavaScript  /  Python</text>
+<rect x="0" y="0" width="4" height="220" rx="1" fill="#3F6934"/>
+</svg>
