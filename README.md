@@ -46,10 +46,6 @@ I'm looking for B2B roles in Poland, Estonia and the rest of Europe.
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-luzia-amelia-dark.svg">
     <img src="assets/card-luzia-amelia-light.svg" alt="luzia-amelia: editorial landing page concept for a small atelier. Fictional data." width="49%">
   </picture></a>
-  <a href="https://linkedin.com/in/lksuey"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-contact-dark.svg">
-    <img src="assets/card-contact-light.svg" alt="Open to B2B roles: data analyst positions in Poland, Estonia and the rest of Europe. Contact on LinkedIn, linkedin.com/in/lksuey." width="49%">
-  </picture></a>
 </p>
 
 Most of my production work lives inside company systems, so I only show what I can publish. Where a project comes from internal work, it is a clean-room rewrite on synthetic data, published with the employer's authorization.
