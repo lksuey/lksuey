@@ -28,23 +28,23 @@ I'm looking for B2B roles in Poland, Estonia and the rest of Europe.
   </picture></a>
   <a href="https://github.com/lksuey/relatorio-supers"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-relatorio-supers-dark.svg">
-    <img src="assets/card-relatorio-supers-light.svg" alt="relatorio-supers: desktop tool in Python that turns proposal exports into Excel reports. Sanitized copy, synthetic data." width="49%">
+    <img src="assets/card-relatorio-supers-light.svg" alt="Relatório Supers: desktop tool in Python that turns proposal exports into Excel reports. Sanitized copy, synthetic data." width="49%">
   </picture></a>
 </p>
 <p>
   <a href="https://github.com/lksuey/assina-ai"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-assina-ai-dark.svg">
-    <img src="assets/card-assina-ai-light.svg" alt="assina-ai: dashboard that follows loan proposals through signature and payment. Sanitized copy, synthetic data." width="49%">
+    <img src="assets/card-assina-ai-light.svg" alt="Assina AI: dashboard that follows loan proposals through signature and payment. Sanitized copy, synthetic data." width="49%">
   </picture></a>
   <a href="https://github.com/lksuey/portal-qualidade"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-portal-qualidade-dark.svg">
-    <img src="assets/card-portal-qualidade-light.svg" alt="portal-qualidade: searchable operational library for a customer service team. Sanitized copy, neutral content." width="49%">
+    <img src="assets/card-portal-qualidade-light.svg" alt="Portal da Qualidade: searchable operational library for a customer service team. Sanitized copy, neutral content." width="49%">
   </picture></a>
 </p>
 <p>
   <a href="https://github.com/lksuey/luzia-amelia"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-luzia-amelia-dark.svg">
-    <img src="assets/card-luzia-amelia-light.svg" alt="luzia-amelia: editorial landing page concept for a small atelier. Fictional data." width="49%">
+    <img src="assets/card-luzia-amelia-light.svg" alt="Luzia Amélia: editorial landing page concept for a small atelier. Fictional data." width="49%">
   </picture></a>
 </p>
 
