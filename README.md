@@ -1,4 +1,4 @@
-﻿<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" alt="Lucas S. Soares, Data Analyst. Power BI and DAX, Python, SQL, pipelines and automation." width="100%">
 </picture>
@@ -46,23 +46,35 @@ I'm looking for B2B roles in Poland, Estonia and the rest of Europe.
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-luzia-amelia-dark.svg">
     <img src="assets/card-luzia-amelia-light.svg" alt="luzia-amelia: editorial landing page concept for a small atelier. Fictional data." width="49%">
   </picture></a>
+  <a href="https://linkedin.com/in/lksuey"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-contact-dark.svg">
+    <img src="assets/card-contact-light.svg" alt="Open to B2B roles: data analyst positions in Poland, Estonia and the rest of Europe. Contact on LinkedIn, linkedin.com/in/lksuey." width="49%">
+  </picture></a>
 </p>
 
 Most of my production work lives inside company systems, so I only show what I can publish. Where a project comes from internal work, it is a clean-room rewrite on synthetic data, published with the employer's authorization.
 
 ## How I work
 
-- **I start from the decision.** Before building a report I ask who will act on it and what they would do differently.
-- **I automate what repeats.** If I do something three times, it becomes a script with logs and a way to fail loudly.
-- **I test the data, not only the code.** Row counts, keys and reconciliations run before anything reaches a dashboard.
-- **I say what I don't know.** I prefer a short "not sure yet, here is how I'll check" over a confident guess.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/principles-dark.svg">
+  <img src="assets/principles-light.svg" alt="I start from the decision: before building a report I ask who will act on it and what they would do differently. I automate what repeats: if I do something three times, it becomes a script with logs and a way to fail loudly. I test the data, not only the code: row counts, keys and reconciliations run before anything reaches a dashboard. I say what I don't know: I prefer a short not sure yet, here is how I'll check, over a confident guess." width="100%">
+</picture>
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/lksuey](https://linkedin.com/in/lksuey)
-- Email: [Lucassoares8365@gmail.com](mailto:Lucassoares8365@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/lksuey"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
+    <img src="assets/btn-linkedin-light.svg" alt="LinkedIn: linkedin.com/in/lksuey" width="49%">
+  </picture></a>
+  <a href="mailto:Lucassoares8365@gmail.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
+    <img src="assets/btn-email-light.svg" alt="Email: Lucassoares8365@gmail.com" width="49%">
+  </picture></a>
+</p>
 
-<br>
-
-<p align="center"><sub>2026 Lucas S. Soares</sub></p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" alt="Lucas S. Soares, Data Analyst, 2026" width="100%">
+</picture>

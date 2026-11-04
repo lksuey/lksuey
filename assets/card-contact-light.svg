@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220" role="img" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="440" height="220" fill="#F3F2EE"/>
+<rect x="0.5" y="0.5" width="439" height="219" rx="3" fill="#E4E9DF" stroke="#3F6934" stroke-width="1"/>
+<text x="24" y="36" font-size="10" font-weight="600" fill="#64655D" letter-spacing="2" text-anchor="start">AVAILABLE</text>
+<text x="416" y="36" font-size="10" font-weight="600" fill="#3F6934" letter-spacing="1.2" text-anchor="end">2026  /  BRAZIL</text>
+<line x1="24" y1="50" x2="416" y2="50" stroke="#A9B8A0" stroke-width="1"/>
+<text x="24" y="88" font-size="22" font-weight="600" fill="#1A1A19" letter-spacing="-0.3" text-anchor="start">Open to B2B roles</text>
+<g transform="translate(376,62)"><path d="M6 8h28a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H16l-7 6v-6H6a2 2 0 0 1-2-2V10a2 2 0 0 1 2-2z" stroke="#1A1A19" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M11 16h18M11 21h10" stroke="#3F6934" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="24" y="118" font-size="13" font-weight="400" fill="#1A1A19" text-anchor="start">Data analyst positions in Poland, Estonia and the</text>
+<text x="24" y="139" font-size="13" font-weight="400" fill="#1A1A19" text-anchor="start">rest of Europe. The fastest way to reach me is LinkedIn.</text>
+<line x1="24" y1="168" x2="416" y2="168" stroke="#A9B8A0" stroke-width="1"/>
+<text x="24" y="192" font-size="10" font-weight="600" fill="#64655D" letter-spacing="2" text-anchor="start">CONTACT</text>
+<text x="88" y="192" font-size="12" font-weight="500" fill="#1A1A19" text-anchor="start">linkedin.com/in/lksuey</text>
+<path d="M394 188h20M408 182l6 6-6 6" fill="none" stroke="#3F6934" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0" y="0" width="4" height="220" rx="1" fill="#3F6934"/>
+</svg>
