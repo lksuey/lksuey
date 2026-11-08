@@ -8,7 +8,7 @@
 <line x1="300.0" y1="24" x2="300.0" y2="126" stroke="#D8D8D0" stroke-width="1"/>
 <text x="320.0" y="84" font-size="56" font-weight="600" fill="#1A1A19" letter-spacing="-1.5" text-anchor="start">5</text>
 <text x="320.0" y="112" font-size="11" font-weight="600" fill="#1A1A19" letter-spacing="1.6" text-anchor="start">PUBLIC PROJECTS</text>
-<text x="320.0" y="130" font-size="12" font-weight="400" fill="#64655D" text-anchor="start">clean-room, synthetic data</text>
+<text x="320.0" y="130" font-size="12" font-weight="400" fill="#64655D" text-anchor="start">sanitized, synthetic data</text>
 <line x1="600.0" y1="24" x2="600.0" y2="126" stroke="#D8D8D0" stroke-width="1"/>
 <text x="620.0" y="84" font-size="56" font-weight="600" fill="#1A1A19" letter-spacing="-1.5" text-anchor="start">C1</text>
 <text x="620.0" y="112" font-size="11" font-weight="600" fill="#1A1A19" letter-spacing="1.6" text-anchor="start">ENGLISH</text>

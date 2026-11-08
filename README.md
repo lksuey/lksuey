@@ -3,13 +3,13 @@
   <img src="assets/banner-light.svg" alt="Lucas S. Soares, Data Analyst. Power BI and DAX, Python, SQL, pipelines and automation." width="100%">
 </picture>
 
-Hi, I'm Lucas. I'm a data analyst from Brazil, working at mid-level with Power BI and advanced DAX, Python, SQL and automation. I like the unglamorous part of analytics: making the numbers arrive on time, in the same shape, every day, so people can stop questioning them and start using them.
+Hi, I'm Lucas. I'm a data analyst from Brazil, working at mid-level with Power BI and advanced DAX, Python and automation, with SQL from my database degree and personal projects. I like the unglamorous part of analytics: making the numbers arrive on time, in the same shape, every day, so people can stop questioning them and start using them.
 
 I'm looking for B2B roles in Poland, Estonia and the rest of Europe.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="30+ pipelines in production in 9 months. 5 public projects, clean-room, on synthetic data. English C1." width="100%">
+  <img src="assets/stats-light.svg" alt="30+ pipelines in production in 9 months. 5 public projects, sanitized, on synthetic data. English C1." width="100%">
 </picture>
 
 ## Skills
@@ -48,7 +48,7 @@ I'm looking for B2B roles in Poland, Estonia and the rest of Europe.
   </picture></a>
 </p>
 
-Most of my production work lives inside company systems, so I only show what I can publish. Where a project comes from internal work, it is a clean-room rewrite on synthetic data, published with the employer's authorization.
+Most of my production work lives inside company systems, so I only show what I can publish. Where a project comes from internal work, it is a sanitized copy on synthetic data, published with the employer's authorization.
 
 ## How I work
 
